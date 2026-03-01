@@ -3,8 +3,9 @@
 speedcubing timers are expensive and boring, im trying to build a better one.
 
 
-![touchpads-v3](/touchpads-v3.gif)
-/\ touchpads v3, theyre just aluminium foil in a 3dp housing
+![shit](/artists-rendition.jpg)
+
+/\ artists rendition of the final timer
 
 ## Planned features:
 - cheap and easy to diy
@@ -16,3 +17,6 @@ speedcubing timers are expensive and boring, im trying to build a better one.
 - bluetooth
 
 in progress
+
+![touchpads-v3](/touchpads-v3.gif)
+/\ touchpads v3, theyre just aluminium foil in a 3dp housing
