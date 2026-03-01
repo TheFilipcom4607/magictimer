@@ -1,5 +1,7 @@
 # magictimer
 
+![touchpads-v3](https://assets.thefilip.com/touchpads-v3.gif)
+
 speedcubing timers are expensive and boring, im trying to build a better one.
 
 Planned features:
