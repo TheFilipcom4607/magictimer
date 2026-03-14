@@ -13,10 +13,10 @@ speedcubing timers are expensive and boring, im trying to build a better one.
 - neopixels around the touchpads
 - oled screen
 - stats 
-- confetti
+- confetti (on screen)
 - bluetooth
 
 in progress
 
 ![touchpads-v3](/touchpads-v3.gif)
-/\ touchpads v3, theyre just aluminium foil in a 3dp housing
+/\ touchpads v3
