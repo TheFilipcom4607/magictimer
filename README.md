@@ -18,5 +18,7 @@ speedcubing timers are expensive and boring, im trying to build a better one.
 
 in progress
 
+![very-early-mvp](/timer-mvp.gif)
+
 ![touchpads-v3](/touchpads-v3.gif)
 /\ touchpads v3
