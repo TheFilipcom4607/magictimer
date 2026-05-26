@@ -17,6 +17,9 @@ speedcubing timers are expensive and boring, im trying to build a better one.
 - bluetooth
 
 in progress
+![later-mvp](/later-mvp.gif)
+
+/\ later MVP
 
 ![very-early-mvp](/timer-mvp.gif)
 
