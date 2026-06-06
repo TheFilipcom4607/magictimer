@@ -8,7 +8,7 @@ speedcubing timers are expensive and boring, im trying to build a better one.
 /\ artists rendition of the final timer
 
 ## Planned features:
-- cheap and easy to diy
+- cheap (-ish i hope)
 - scramble generator
 - neopixels around the touchpads
 - oled screen
